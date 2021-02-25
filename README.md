@@ -1,2 +1,2 @@
 # Among Us Airship-Lobby
-A texture swap which gives you an Airship themed Lobby.
+An Among Us texture swap which gives you an Airship themed Lobby.
