@@ -1,5 +1,4 @@
 # Among Us Airship-Lobby
 An Among Us texture swap which gives you an Airship themed Lobby.
 
-<img src="Screenshot/Airship Lobby.jpg" width="300"></img>
-![Everyone](./Screenshot/Airship Lobby.jpg)
+<img src="Screenshot/Airship Lobby.jpg" width="500"></img>
